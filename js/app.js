@@ -1,5 +1,5 @@
-console.log("Hello World!");
-
-
-
-//skoluppgift nr 2, skriva hello world, koppla js koden till htlm genom script tag
+console.log("This is line 1.");
+console.log("This is line 2.");
+console.log("This is line 3."); console.log("This is line 4.");
+console.log("This is line 5.");;
+console.log("This is line 6.");
